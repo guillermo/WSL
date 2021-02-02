@@ -184,4 +184,4 @@ You can also use this technique to mount and interact with the virtual hard disk
 
 - USB flash drives are not supported at this time and will fail to attach to WSL 2. USB disks are supported though.
 
-- Only filesystems that are natively supported in the kernel can be mounted by `wsl --mount`. This means that it's not possible to use installed filesystem drivers (such as ntfs-3g for example) by calling `wsl --mount`.
+- Only filesystems that are natively supported in the kernel can be mounted by `wsl --mount`. This means that it's not possible to use installed filesystem drivers (such as ntfs-3g for example) by calling `wsl --mount`. 
